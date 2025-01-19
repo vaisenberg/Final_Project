@@ -1,0 +1,11 @@
+Invalid Solar Companies:
+
+Invalid Oil Companies:
+
+Invalid Wind Companies:
+
+Invalid Indicators:
+
+Invalid Commodities:
+
+Invalid Macro Indicators:
